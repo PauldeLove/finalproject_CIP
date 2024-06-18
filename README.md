@@ -46,5 +46,23 @@ Data Visualization: Clear and informative visualizations to aid in understanding
 Security Operations: Analysis of data related to security operations by the Joint Task Force of Gondwana City (JTFGC).
 Incident Management: Categorizing and visualizing different types of incidents captured by surveillance cameras.
 Operational Efficiency: Enhancing operational efficiency of security forces through data analysis and visualization.
+
+### Number of Type of Incidents and Events
+![Number Per Category](visualizations/category_counts.png)
+
+### Type of Action Taken by the Duty Officer (JTFGC)
+![Action_taken](visualizations/action_taken.png)
+
+### Cameras usage
+![Camera usage](visualizations/camera_usage.png)
+
+### Category of Incident and Events spotted
+![Category counts](visualizations/category_counts.png)
+
+### Operators' Performance
+![Operator performance](visualizations/satff_performance.png)
+
+
+
 Contact
 For any questions or feedback, please contact [sidientreprise@gmail.com].
